@@ -2,11 +2,11 @@ function sub(){
     console.log("hello i am submodule repo");
 }
 
-sub();
-
-
-export default {
+const fun = sub();
+const obj = {
     name: 'asad',
     company: 'tft',
     add: "check push"
 }
+
+export default { obj, fun }
