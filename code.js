@@ -6,6 +6,6 @@ sub();
 
 
 const obj = {
-    name: 'asad'
+    name: 'asad',
     company: 'tft'
 }
