@@ -3,3 +3,9 @@ function sub(){
 }
 
 sub();
+
+
+const obj = {
+    name: 'asad'
+    company: 'tft'
+}
