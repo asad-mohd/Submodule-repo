@@ -5,7 +5,7 @@ function sub(){
 sub();
 
 
-const obj = {
+module.export = {
     name: 'asad',
     company: 'tft'
 }
