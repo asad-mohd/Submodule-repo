@@ -5,7 +5,7 @@ function sub(){
 sub();
 
 
-module.export = {
+export default {
     name: 'asad',
     company: 'tft'
 }
