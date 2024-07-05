@@ -1,8 +1,9 @@
 function sub(){
-    console.log("hello i am submodule repo");
+    return "hello i am submodule repo"
 }
 
 const fun = sub();
+
 const obj = {
     name: 'asad',
     company: 'tft',
