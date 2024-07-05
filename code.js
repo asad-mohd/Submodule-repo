@@ -7,5 +7,6 @@ sub();
 
 export default {
     name: 'asad',
-    company: 'tft'
+    company: 'tft',
+    add: "check push"
 }
