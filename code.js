@@ -7,7 +7,8 @@ const fun = sub();
 const obj = {
     name: 'asad',
     company: 'tft',
-    add: "check push"
+    add: "check push",
+    check: "data"
 }
 
 export default { obj, fun }
